@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFD1198439d4a6e254CfAAd353E897F0Fb89c66bf",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xfd1198439d4a6e254cfaad353e897f0fb89c66bf",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "moonmoon",
+  "SYMBOL": "MOON",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 0,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/moonmoon-bk2tfv5dvy",
+  "SHOW_BACKGROUND": true
+}
